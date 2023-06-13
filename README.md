@@ -1,5 +1,7 @@
-# FeedbackForm
-Feedback form using React-Native
+<h1 align = "center">Feedback form using React-Native</h1>
+<p><b>Description: </b>I wrote a feedback form where the user can fill out the form and share their experience. I wrote for Android using an emulator, namely Pixel 3a API 27 2. </p> 
+
+<h2>Task I completed:</h2>
 <ul><li>User can input his name, number and email✅</li><li>
             Fields were validated according to their type, and special functions were written.✅
             </li>
