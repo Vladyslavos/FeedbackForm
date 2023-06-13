@@ -12,7 +12,12 @@
             <li>If the name, number, and email fields are empty or did not pass validation, the subtit button is disabled. If the user entered all the data in the fields correctly, then the setTimeOut function will work, which simulates sending data to the server, the spinner spins and a message is displayed about the successful sending to the server.✅</li></ul>
 <hr>
 <h2>An example of how it looks on the emulator:</h2>
+
+
 ![android-emulator-pixel-3a-api-27-2-5554-2023-06-13-03-26-47_FQ4d17oH](https://github.com/Vladyslavos/Netflix/assets/67589338/f4ff2001-d2cc-4414-9463-eeeb297a975d)
+
+
+
 <hr>
 <b>In case if you are interested in this project, you can download it in ZIP:</b>
 
